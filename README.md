@@ -17,8 +17,6 @@ Printing text on LCD screen using C# forms and Arduino
 <img width="391" height="297" alt="C# Form" src="https://github.com/user-attachments/assets/b5efbeff-65f6-4e90-a583-96ed4d4ca2ce" />
 
 
-<img width="391" height="297" alt="Ekran görüntüsü 2025-07-26 152315" src="https://github.com/user-attachments/assets/b5efbeff-65f6-4e90-a583-96ed4d4ca2ce" />
-
 
 
 # ⚙️ Prerequisites
